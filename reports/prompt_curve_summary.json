@@ -1,0 +1,23 @@
+{
+  "forecast_day": "2026-02-27",
+  "proxy_days_used": [
+    "2026-02-19",
+    "2026-02-20",
+    "2026-02-21",
+    "2026-02-22",
+    "2026-02-23",
+    "2026-02-24",
+    "2026-02-26"
+  ],
+  "model_rmse": 13.338270311036998,
+  "action_threshold": 6.669135155518499,
+  "forecast_base": 28.446316954467488,
+  "forecast_peak": 37.26891579977289,
+  "prompt_proxy_base": 34.60886904761905,
+  "prompt_proxy_peak": 38.581755952380945,
+  "spread_base": -6.1625520931515645,
+  "spread_peak": -1.3128401526080538,
+  "signal_base": "NEUTRAL \u2192 no strong edge",
+  "signal_peak": "NEUTRAL \u2192 no strong edge",
+  "peak_definition": "08:00\u201320:00 => hours 9..20"
+}

@@ -1,0 +1,25 @@
+{
+  "n_rows": 624,
+  "date_min": "2026-01-29",
+  "date_max": "2026-02-27",
+  "missing_by_col": {
+    "settlementDate": 0,
+    "hour": 0,
+    "da_price": 0,
+    "wind_solar_mw": 0,
+    "temp_c": 0
+  },
+  "duplicate_date_hour_rows": 0,
+  "hours_per_day_counts": {
+    "24": 26
+  },
+  "price_stats": {
+    "min": -1.635,
+    "p01": 11.767825,
+    "median": 41.97875,
+    "p99": 67.59554999999999,
+    "max": 86.545
+  },
+  "pct_missing_wind_solar_mw": 0.0,
+  "pct_missing_temp_c": 0.0
+}
